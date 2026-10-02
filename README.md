@@ -11,7 +11,7 @@ AI code review that cites exact changed lines, plus a self-hosted platform that 
 - In a live run, reproduced 9 of 9 seeded regressions with failing tests. Every fix passed contract tests the agents never saw, and none of 9 valid changes was flagged.
 
 **TypeScript · Python · Temporal · PostgreSQL · Docker**  
-[Results and method](https://github.com/wuchris-ch/pr-review-agent-flue/blob/main/docs/results.md) · [Latest release](https://github.com/wuchris-ch/pr-review-agent-flue/releases/latest)
+[Project site](https://wuchris-ch.github.io/pr-review-agent-flue/) · [Results and method](https://github.com/wuchris-ch/pr-review-agent-flue/blob/main/docs/results.md) · [Latest release](https://github.com/wuchris-ch/pr-review-agent-flue/releases/latest)
 
 ### [Agent Reliability & Evaluation Platform](https://github.com/wuchris-ch/agent-eval-platform)
 Gates agent releases on repeated trials, checking outcomes with hidden tests and independent state checks instead of the agent's own report.
