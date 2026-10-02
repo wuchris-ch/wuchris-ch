@@ -27,11 +27,6 @@ A live research site that refreshes FRED, BIS, World Bank, NY Fed and market dat
 **Next.js · TypeScript · Python · FastAPI · DuckDB**  
 [Open application](https://global-liquidity-credit-tracker.vercel.app/) · [Release laboratory](https://global-liquidity-credit-tracker.vercel.app/research/lab)
 
-### [Research Reproducibility Workbench](https://github.com/wuchris-ch/science-research-reproducibility-platform)
-Inspect published analyses, review execution plans and compare regenerated results. Links methods, datasets and runtime versions in portable provenance bundles.
-
-**React · FastAPI · Python · R · Docker**
-
 ---
 
 More work: [Multi-agent development workflows](https://github.com/wuchris-ch/multi-agent-software-development-platform) · [Coding-agent evaluation harness](https://github.com/wuchris-ch/deepswe-claude-code-eval) · [Distributed task scheduler in Go](https://github.com/wuchris-ch/distributed-task-scheduler) · [Local email classification](https://github.com/wuchris-ch/ollama-email-classifier)
