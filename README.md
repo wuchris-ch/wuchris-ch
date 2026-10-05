@@ -1,4 +1,4 @@
-I build developer tools, evaluation systems and data platforms, mostly in TypeScript and Python.
+I build backend systems and full-stack apps, mostly in TypeScript and Python.
 
 ### Projects
 
